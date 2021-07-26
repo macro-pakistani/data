@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-BYCO,10.77,24344000,TAS,Byco Petroleum Pakistan Limited,0.13,1.22%,2021-07-22
-DNCCR,0.73,23196500,TAS,Dandot Cement (R),0.45,160.71%,2021-07-22
-SNGP,52.72,18526302,TAS,Sui Northern Gas Pipelines Limited,3.67,7.48%,2021-07-22
-ASC,20.47,13446000,TAS,Al Shaheer Corporation Limited,-0.28,-1.35%,2021-07-22
-TREET,61.52,12724500,TAS,Treet Corporation Limited,0.63,1.03%,2021-07-22
-WTL,3.52,11779000,TAS,Worldcall Telecom Limited,0.09,2.62%,2021-07-22
-TPLP,36.01,11748000,TAS,TPL Properties Limited,2.03,5.97%,2021-07-22
-TPL,24.22,11020500,TAS,TPL Corp Limited,-0.91,-3.62%,2021-07-22
-HASCOLDEF,7.57,9284737,TAS,Hascol Petroleum Limited,0.16,2.16%,2021-07-22
-STPL,18.08,9220000,TAS,Siddiqsons Tin Plate Limited,0.73,4.21%,2021-07-22
-DNCCR,0.73,23196500,TA,Dandot Cement (R),0.45,160.71%,2021-07-22
-FIBLM,2.9,500,TA,First IBL Modaraba,0.39,15.54%,2021-07-22
-PASLDEF,1.71,1956000,TA,Pervez Ahmed Consultancy Services Ltd.,0.17,11.04%,2021-07-22
-NCMLDEF,8.06,456000,TA,Nazir Cotton Mills Limited,0.8,11.02%,2021-07-22
-PIM,7.04,15000,TA,Popular Islamic Modaraba,0.52,7.98%,2021-07-22
-INKL,14.0,4500,TA,International Knitwear Limited,0.99,7.61%,2021-07-22
-SSGC,14.23,4913500,TA,Sui Southern Gas Company Limited,1.0,7.56%,2021-07-22
-SASML,14.27,1500,TA,Sindh Abadgars Sugar Mills Limited,1.0,7.54%,2021-07-22
-BTL,440.75,1400,TA,Blessed Textiles Limited,30.75,7.50%,2021-07-22
-HTL,76.11,1774500,TA,Hi-Tech Lubricants Limited,5.31,7.50%,2021-07-22
-TSMF,6.2,500,TD,Tri-Star Mutual Fund Limited,-0.79,-11.30%,2021-07-22
-DWTMDEF,4.03,1500,TD,Dewan Textile Mills Limited,-0.46,-10.24%,2021-07-22
-TSML,176.46,2500,TD,Tandlianwala Sugar Mills Limited,-14.3,-7.50%,2021-07-22
-SHCM,23.15,1000,TD,Shadman Cotton Mills Limited,-1.85,-7.40%,2021-07-22
-TICL,301.0,200,TD,The Thal Industries Corporation Limited,-24.0,-7.38%,2021-07-22
-JOPPDEF,50.0,1500,TD,Johnson & Phillips (Pakistan) Limited,-2.85,-5.39%,2021-07-22
-DINT,90.0,1000,TD,Din Textile Mills Limited,-5.0,-5.26%,2021-07-22
-REDCO,7.5,35500,TD,Redco Textiles Limited,-0.4,-5.06%,2021-07-22
-DADX,42.99,8000,TD,Dadex Eternit Limited,-2.26,-4.99%,2021-07-22
-TATM,75.0,3000,TD,Tata Textile Mills Limited,-3.9,-4.94%,2021-07-22
+WTL,3.84,127888500,TAS,Worldcall Telecom Limited,0.28,7.87%,2021-07-26
+TELE,15.72,45078000,TAS,Telecard Limited,0.99,6.72%,2021-07-26
+TPL,24.03,17421500,TAS,TPL Corp Limited,-0.33,-1.35%,2021-07-26
+ASC,20.79,16752500,TAS,Al Shaheer Corporation Limited,0.99,5.00%,2021-07-26
+BYCO,10.27,13399000,TAS,Byco Petroleum Pakistan Limited,-0.18,-1.72%,2021-07-26
+NRSL,20.49,9202000,TAS,Nimir Resins Limited,0.32,1.59%,2021-07-26
+TRG,168.48,8542484,TAS,TRG Pakistan Limited,1.15,0.69%,2021-07-26
+WAVES,26.3,8393500,TAS,Waves Singer Pakistan Limited,0.6,2.33%,2021-07-26
+PACE,8.03,7423000,TAS,Pace (Pakistan) Limited,-0.11,-1.35%,2021-07-26
+SILK,1.82,7108000,TAS,Silkbank Limited,0.0,0.00%,2021-07-26
+FPRM,5.84,52500,TA,First Paramount Modaraba,0.99,20.41%,2021-07-26
+AGSML,10.58,991000,TA,Abdullah Shah Ghazi Sugar Mills Limited,1.0,10.44%,2021-07-26
+GFIL,10.6,212000,TA,Ghazi Fabrics International Limited,1.0,10.42%,2021-07-26
+FUDLM,10.61,151500,TA,First UDL Modaraba,1.0,10.41%,2021-07-26
+NCMLDEF,8.66,434500,TA,Nazir Cotton Mills Limited,0.76,9.62%,2021-07-26
+FTSM,11.75,8500,TA,First Tri-Star Modaraba,1.0,9.30%,2021-07-26
+JATM,12.88,55500,TA,J.A. Textile Mills Limited,1.0,8.42%,2021-07-26
+ORM,7.74,2000,TA,Orient Rental Mod,0.59,8.25%,2021-07-26
+WTL,3.84,127888500,TA,Worldcall Telecom Limited,0.28,7.87%,2021-07-26
+FANM,3.5,1000,TA,First Al-Noor Modaraba,0.25,7.69%,2021-07-26
+HMM,7.1,500,TD,Habib Metro Mod,-0.95,-11.80%,2021-07-26
+FCIBL,8.0,500,TD,First Credit and Investment Bank Limited,-1.0,-11.11%,2021-07-26
+PILDEF,1.65,80000,TD,PICIC Insurance Limited,-0.15,-8.33%,2021-07-26
+QUET,11.03,1500,TD,Quetta Textile Mills Limited,-0.97,-8.08%,2021-07-26
+SCL,392.2,300,TD,Shield Corporation Limited,-31.8,-7.50%,2021-07-26
+ASHT,23.3,9000,TD,Ashfaq Textile Mills Limited,-1.88,-7.47%,2021-07-26
+WAHN,311.0,5000,TD,Wah Noble Chemicals Limited,-24.0,-7.16%,2021-07-26
+KSBP,255.24,5700,TD,KSB Pumps Company Limited,-19.69,-7.16%,2021-07-26
+JSGCL,110.17,500,TD,JS Global Capital Limited,-8.33,-7.03%,2021-07-26
+BAFS,41.0,1000,TD,Baba Farid Sugar Mills Limited,-3.0,-6.82%,2021-07-26
