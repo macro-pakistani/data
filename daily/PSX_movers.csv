@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-WTL,3.84,127888500,TAS,Worldcall Telecom Limited,0.28,7.87%,2021-07-26
-TELE,15.72,45078000,TAS,Telecard Limited,0.99,6.72%,2021-07-26
-TPL,24.03,17421500,TAS,TPL Corp Limited,-0.33,-1.35%,2021-07-26
-ASC,20.79,16752500,TAS,Al Shaheer Corporation Limited,0.99,5.00%,2021-07-26
-BYCO,10.27,13399000,TAS,Byco Petroleum Pakistan Limited,-0.18,-1.72%,2021-07-26
-NRSL,20.49,9202000,TAS,Nimir Resins Limited,0.32,1.59%,2021-07-26
-TRG,168.48,8542484,TAS,TRG Pakistan Limited,1.15,0.69%,2021-07-26
-WAVES,26.3,8393500,TAS,Waves Singer Pakistan Limited,0.6,2.33%,2021-07-26
-PACE,8.03,7423000,TAS,Pace (Pakistan) Limited,-0.11,-1.35%,2021-07-26
-SILK,1.82,7108000,TAS,Silkbank Limited,0.0,0.00%,2021-07-26
-FPRM,5.84,52500,TA,First Paramount Modaraba,0.99,20.41%,2021-07-26
-AGSML,10.58,991000,TA,Abdullah Shah Ghazi Sugar Mills Limited,1.0,10.44%,2021-07-26
-GFIL,10.6,212000,TA,Ghazi Fabrics International Limited,1.0,10.42%,2021-07-26
-FUDLM,10.61,151500,TA,First UDL Modaraba,1.0,10.41%,2021-07-26
-NCMLDEF,8.66,434500,TA,Nazir Cotton Mills Limited,0.76,9.62%,2021-07-26
-FTSM,11.75,8500,TA,First Tri-Star Modaraba,1.0,9.30%,2021-07-26
-JATM,12.88,55500,TA,J.A. Textile Mills Limited,1.0,8.42%,2021-07-26
-ORM,7.74,2000,TA,Orient Rental Mod,0.59,8.25%,2021-07-26
-WTL,3.84,127888500,TA,Worldcall Telecom Limited,0.28,7.87%,2021-07-26
-FANM,3.5,1000,TA,First Al-Noor Modaraba,0.25,7.69%,2021-07-26
-HMM,7.1,500,TD,Habib Metro Mod,-0.95,-11.80%,2021-07-26
-FCIBL,8.0,500,TD,First Credit and Investment Bank Limited,-1.0,-11.11%,2021-07-26
-PILDEF,1.65,80000,TD,PICIC Insurance Limited,-0.15,-8.33%,2021-07-26
-QUET,11.03,1500,TD,Quetta Textile Mills Limited,-0.97,-8.08%,2021-07-26
-SCL,392.2,300,TD,Shield Corporation Limited,-31.8,-7.50%,2021-07-26
-ASHT,23.3,9000,TD,Ashfaq Textile Mills Limited,-1.88,-7.47%,2021-07-26
-WAHN,311.0,5000,TD,Wah Noble Chemicals Limited,-24.0,-7.16%,2021-07-26
-KSBP,255.24,5700,TD,KSB Pumps Company Limited,-19.69,-7.16%,2021-07-26
-JSGCL,110.17,500,TD,JS Global Capital Limited,-8.33,-7.03%,2021-07-26
-BAFS,41.0,1000,TD,Baba Farid Sugar Mills Limited,-3.0,-6.82%,2021-07-26
+WTL,3.74,36634500,TAS,Worldcall Telecom Limited,-0.1,-2.60%,2021-07-27
+BYCO,10.06,34550000,TAS,Byco Petroleum Pakistan Limited,-0.21,-2.04%,2021-07-27
+KASBM,3.34,17830500,TAS,KASB Modaraba,0.41,13.99%,2021-07-27
+TPL,24.12,17719000,TAS,TPL Corp Limited,0.09,0.37%,2021-07-27
+ASC,20.76,16430000,TAS,Al Shaheer Corporation Limited,-0.03,-0.14%,2021-07-27
+GATM,55.11,13816500,TAS,Gul Ahmed Textile Mills Limited,2.02,3.80%,2021-07-27
+KEL,3.89,13093500,TAS,K-Electric Limited,-0.04,-1.02%,2021-07-27
+TELE,15.07,12908500,TAS,Telecard Limited,-0.65,-4.13%,2021-07-27
+TPLP,34.34,12883000,TAS,TPL Properties Limited,2.38,7.45%,2021-07-27
+CPHL,39.17,12666000,TAS,Citi Pharma Ltd.,1.04,2.73%,2021-07-27
+PAKMI,4.4,730000,TA,First Pak Modaraba,1.0,29.41%,2021-07-27
+FPJM,3.68,873000,TA,First Punjab Modaraba,0.58,18.71%,2021-07-27
+FPRM,6.84,88000,TA,First Paramount Modaraba,1.0,17.12%,2021-07-27
+KASBM,3.34,17830500,TA,KASB Modaraba,0.41,13.99%,2021-07-27
+PMI,2.98,912000,TA,First Prudential Modaraba,0.31,11.61%,2021-07-27
+NCMLDEF,9.65,835000,TA,Nazir Cotton Mills Limited,0.99,11.43%,2021-07-27
+GFIL,11.6,136500,TA,Ghazi Fabrics International Limited,1.0,9.43%,2021-07-27
+FTSM,12.75,3500,TA,First Tri-Star Modaraba,1.0,8.51%,2021-07-27
+JATM,13.88,28000,TA,J.A. Textile Mills Limited,1.0,7.76%,2021-07-27
+MSOT,57.62,36500,TA,Masood Textile Mills Limited,4.02,7.50%,2021-07-27
+PPVCDEF,5.23,3500,TD,Pakistan PVC Limited,-0.57,-9.83%,2021-07-27
+DFMLDEF,10.95,2091000,TD,Dewan Farooque Motors Limited,-1.0,-8.37%,2021-07-27
+DEL,22.99,1698500,TD,Dawood Equities Limited,-1.86,-7.48%,2021-07-27
+AMBL,15.21,7500,TD,Apna Microfinance Bank Limited,-1.23,-7.48%,2021-07-27
+ASHT,21.56,6000,TD,Ashfaq Textile Mills Limited,-1.74,-7.47%,2021-07-27
+NRSL,19.01,5185000,TD,Nimir Resins Limited,-1.48,-7.22%,2021-07-27
+PGLC,6.5,3000,TD,Pak-Gulf Leasing Company Limited,-0.5,-7.14%,2021-07-27
+STJT,98.0,1500,TD,Shahtaj Textile Limited,-7.36,-6.99%,2021-07-27
+BUXL,95.82,11500,TD,Buxly Paints Limited,-7.18,-6.97%,2021-07-27
+EFGH,35.9,38000,TD,EFG Hermes Pakistan Limited,-2.6,-6.75%,2021-07-27
