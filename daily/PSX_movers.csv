@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-WTL,3.57,40378500,TAS,Worldcall Telecom Limited,-0.17,-4.55%,2021-07-28
-BYCO,9.9,26892500,TAS,Byco Petroleum Pakistan Limited,-0.16,-1.59%,2021-07-28
-TELE,14.86,13225000,TAS,Telecard Limited,-0.21,-1.39%,2021-07-28
-UNITY,40.58,12449488,TAS,Unity Foods Limited,-2.36,-5.50%,2021-07-28
-KEL,3.88,11616500,TAS,K-Electric Limited,-0.01,-0.26%,2021-07-28
-HUMNL,7.03,11023000,TAS,Hum Network Limited,-0.43,-5.76%,2021-07-28
-TPL,23.78,10307500,TAS,TPL Corp Limited,-0.34,-1.41%,2021-07-28
-SILK,1.82,10234500,TAS,Silkbank Limited,-0.02,-1.09%,2021-07-28
-TPLP,32.83,9812000,TAS,TPL Properties Limited,-1.51,-4.40%,2021-07-28
-SNGPXD,49.9,9705182,TAS,Sui Northern Gas Pipelines Limited,0.31,0.63%,2021-07-28
-FPRM,7.8,189500,TA,First Paramount Modaraba,0.96,14.04%,2021-07-28
-FFLM,3.3,41000,TA,First Fidelity Leasing Modaraba,0.33,11.11%,2021-07-28
-PAKMI,4.81,1766000,TA,First Pak Modaraba,0.41,9.32%,2021-07-28
-QUET,12.04,26000,TA,Quetta Textile Mills Limited,0.97,8.76%,2021-07-28
-BFMOD,5.98,3000,TA,B.F. Modaraba,0.48,8.73%,2021-07-28
-GFIL,12.6,537000,TA,Ghazi Fabrics International Limited,1.0,8.62%,2021-07-28
-FIBLM,3.25,24500,TA,First IBL Modaraba,0.25,8.33%,2021-07-28
-FTSM,13.75,1500,TA,First Tri-Star Modaraba,1.0,7.84%,2021-07-28
-TICL,298.31,7600,TA,The Thal Industries Corporation Limited,20.81,7.50%,2021-07-28
-SERT,33.98,12500,TA,Service Industries Textiles Limited,2.37,7.50%,2021-07-28
-SLYTDEF,4.6,1000,TD,Sally Textile Mills Limited,-0.7,-13.21%,2021-07-28
-BILFDEF,3.35,169500,TD,Bilal Fibres Limited,-0.36,-9.70%,2021-07-28
-SGPLDEF,4.42,2000,TD,S.G. Power Limited,-0.43,-8.87%,2021-07-28
-SIBL,6.44,11000,TD,Security Investment Bank Limited,-0.62,-8.78%,2021-07-28
-SMCPL,9.85,8500,TD,Safe Mix Concrete Limited,-0.9,-8.37%,2021-07-28
-DWTMDEF,3.65,7000,TD,Dewan Textile Mills Limited,-0.31,-7.83%,2021-07-28
-MIRKS,117.43,16100,TD,Mirpurkhas Sugar Mills Limited,-9.52,-7.50%,2021-07-28
-ELSM,150.09,200,TD,Ellcot Spinning Mills Limited,-12.16,-7.49%,2021-07-28
-PRWM,50.14,175500,TD,Prosperity Weaving Mills Limited,-4.06,-7.49%,2021-07-28
-DEL,21.27,528000,TD,Dawood Equities Limited,-1.72,-7.48%,2021-07-28
+WTL,3.42,50152500,TAS,Worldcall Telecom Limited,-0.15,-4.20%,2021-07-30
+BYCO,9.99,47105500,TAS,Byco Petroleum Pakistan Limited,0.09,0.91%,2021-07-30
+UNITY,40.3,16147202,TAS,Unity Foods Limited,-0.28,-0.69%,2021-07-30
+FFBL,27.24,10268500,TAS,Fauji Fertilizer Bin Qasim Limited,0.21,0.78%,2021-07-30
+HUMNL,6.91,10081000,TAS,Hum Network Limited,-0.12,-1.71%,2021-07-30
+ASL,24.27,9657500,TAS,Aisha Steel Mills Limited,0.72,3.06%,2021-07-30
+HASCOLDEF,6.65,9487049,TAS,Hascol Petroleum Limited,-0.15,-2.21%,2021-07-30
+SILK,1.71,9453500,TAS,Silkbank Limited,-0.11,-6.04%,2021-07-30
+TPL,22.52,8907000,TAS,TPL Corp Limited,-1.26,-5.30%,2021-07-30
+PTC,11.78,8647000,TAS,Pakistan Telecommunication Company Ltd,0.17,1.46%,2021-07-30
+SLYTDEF,5.39,4000,TA,Sally Textile Mills Limited,0.79,17.17%,2021-07-30
+SIBL,7.35,1000,TA,Security Investment Bank Limited,0.91,14.13%,2021-07-30
+FPRM,8.8,73000,TA,First Paramount Modaraba,1.0,12.82%,2021-07-30
+DFMLDEF,11.68,5148500,TA,Dewan Farooque Motors Limited,1.0,9.36%,2021-07-30
+GFIL,13.6,826000,TA,Ghazi Fabrics International Limited,1.0,7.94%,2021-07-30
+TSMF,7.21,4500,TA,Tri-Star Mutual Fund Limited,0.53,7.93%,2021-07-30
+ARPAK,87.09,1000,TA,Arpak International Investments Ltd.,6.07,7.49%,2021-07-30
+SARC,38.19,3000,TA,Sardar Chemical Industries Limited,2.66,7.49%,2021-07-30
+MQTM,35.78,2000,TA,Maqbool Textile Mills Limited,2.49,7.48%,2021-07-30
+IMAGEXR,27.91,526000,TA,Image Pakistan Limited,1.94,7.47%,2021-07-30
+TRSM,2.75,5000,TD,Trust Modaraba,-0.3,-9.84%,2021-07-30
+FFLM,3.02,1000,TD,First Fidelity Leasing Modaraba,-0.28,-8.48%,2021-07-30
+BTL,475.45,100,TD,Blessed Textiles Limited,-38.55,-7.50%,2021-07-30
+GATI,520.78,700,TD,Gatron (Industries) Limited,-42.22,-7.50%,2021-07-30
+PECODEF,392.73,1500,TD,Pakistan Engineering Company Limited,-31.83,-7.50%,2021-07-30
+JDMT,81.5,500,TD,Janana De Malucho Textile Mills Limited,-6.6,-7.49%,2021-07-30
+KPUS,65.59,2500,TD,Khairpur Sugar Mills Limited,-5.31,-7.49%,2021-07-30
+DEL,19.68,205000,TD,Dawood Equities Limited,-1.59,-7.48%,2021-07-30
+MRNS,53.72,35000,TD,Mehran Sugar Mills Limited,-4.2,-7.25%,2021-07-30
+JATM,13.83,58500,TD,J.A. Textile Mills Limited,-1.05,-7.06%,2021-07-30
