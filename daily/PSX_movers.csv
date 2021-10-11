@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-BYCO,10.08,20938500,TAS,Byco Petroleum Pakistan Limited,0.09,0.90%,2021-07-30
-WTL,3.57,18380500,TAS,Worldcall Telecom Limited,0.15,4.39%,2021-07-30
-TELE,15.7,16768500,TAS,Telecard Limited,0.63,4.18%,2021-07-30
-PIBTL,11.24,12476000,TAS,Pakistan International Bulk Terminal,0.32,2.93%,2021-07-30
-TPL,23.5,12452500,TAS,TPL Corp Limited,0.98,4.35%,2021-07-30
-HUMNL,6.9,6275500,TAS,Hum Network Limited,-0.01,-0.14%,2021-07-30
-CPHL,41.75,4878500,TAS,Citi Pharma Ltd.,1.75,4.38%,2021-07-30
-SILK,1.8,4856500,TAS,Silkbank Limited,0.09,5.26%,2021-07-30
-HASCOLDEF,6.62,4235617,TAS,Hascol Petroleum Limited,-0.03,-0.45%,2021-07-30
-IMAGEXR,28.2,3633000,TAS,Image Pakistan Limited,0.29,1.04%,2021-07-30
-PAKMI,5.05,306000,TA,First Pak Modaraba,0.53,11.73%,2021-07-30
-JSCLPSA,11.01,531500,TA,,1.01,10.10%,2021-07-30
-TRSM,3.0,1000,TA,Trust Modaraba,0.25,9.09%,2021-07-30
-HGFA,8.89,71000,TA,HBL Growth Fund,0.72,8.81%,2021-07-30
-ARM,11.09,500,TA,Allied Rental Modaraba,0.79,7.67%,2021-07-30
-TSML,150.5,100,TA,Tandlianwala Sugar Mills Limited,10.5,7.50%,2021-07-30
-SIEM,637.82,1700,TA,Siemens (Pakistan) Engineering,44.49,7.50%,2021-07-30
-TICL,340.06,21400,TA,The Thal Industries Corporation Limited,23.72,7.50%,2021-07-30
-JDMT,87.61,4000,TA,Janana De Malucho Textile Mills Limited,6.11,7.50%,2021-07-30
-SARC,41.05,13000,TA,Sardar Chemical Industries Limited,2.86,7.49%,2021-07-30
-FPRM,7.8,335500,TD,First Paramount Modaraba,-1.0,-11.36%,2021-07-30
-PPVCDEF,5.11,1500,TD,Pakistan PVC Limited,-0.46,-8.26%,2021-07-30
-TPLI,38.04,13000,TD,TPL Insurance Limited,-3.08,-7.49%,2021-07-30
-ELSM,142.1,200,TD,Ellcot Spinning Mills Limited,-11.4,-7.43%,2021-07-30
-LMSMDEF,26.0,1500,TD,Landmark Spinning Industries Limited,-1.9,-6.81%,2021-07-30
-GATI,490.01,100,TD,Gatron (Industries) Limited,-30.77,-5.91%,2021-07-30
-ALNRS,72.0,3000,TD,Al-Noor Sugar Mills Limited,-4.15,-5.45%,2021-07-30
-NCMLDEF,9.0,43000,TD,Nazir Cotton Mills Limited,-0.49,-5.16%,2021-07-30
-KOHTM,20.4,3000,TD,Kohat Textile Mills Limited,-0.88,-4.14%,2021-07-30
-PILDEF,1.55,29500,TD,PICIC Insurance Limited,-0.06,-3.73%,2021-07-30
+WTL,2.53,18534000,TAS,Worldcall Telecom Limited,-0.01,-0.39%,2021-10-11
+TELE,18.67,14159500,TAS,Telecard Limited,-0.59,-3.06%,2021-10-11
+SILK,1.56,9331500,TAS,Silkbank Limited,0.04,2.63%,2021-10-11
+FCSC,2.46,9222000,TAS,First Capital Securities Corporation,0.58,30.85%,2021-10-11
+TPL,19.13,7925500,TAS,TPL Corp Limited,-0.75,-3.77%,2021-10-11
+BYCO,7.5,7650000,TAS,Byco Petroleum Pakistan Limited,-0.21,-2.72%,2021-10-11
+TREET,58.01,6454000,TAS,Treet Corporation Limited,4.04,7.49%,2021-10-11
+HBL,110.26,5834015,TAS,Habib Bank Limited,1.18,1.08%,2021-10-11
+HUMNL,5.63,5311500,TAS,Hum Network Limited,-0.16,-2.76%,2021-10-11
+FFBL,20.4,4816000,TAS,Fauji Fertilizer Bin Qasim Limited,-1.02,-4.76%,2021-10-11
+FCSC,2.46,9222000,TA,First Capital Securities Corporation,0.58,30.85%,2021-10-11
+RUBYDEF,6.9,500,TA,Ruby Textile Mills Limited,0.9,15.00%,2021-10-11
+PGLC,7.8,5500,TA,Pak-Gulf Leasing Company Limited,0.95,13.87%,2021-10-11
+SIBL,7.29,1000,TA,Security Investment Bank Limited,0.79,12.15%,2021-10-11
+POWERPS,9.49,500,TA,Power Cement (Pref),0.98,11.52%,2021-10-11
+ASLPS,41.94,22500,TA,Aisha Steel Convertible (Pref),2.93,7.51%,2021-10-11
+OCTOPUS,54.2,10000,TA,Octopus Digital Limited,3.78,7.50%,2021-10-11
+PHDL,145.12,21000,TA,Pakistan Hotels Developers Limited,10.12,7.50%,2021-10-11
+KPUS,64.97,500,TA,Khairpur Sugar Mills Limited,4.53,7.50%,2021-10-11
+CHAS,84.35,90500,TA,Chashma Sugar Mills Limited,5.88,7.49%,2021-10-11
+UCAPM,2.31,2500,TD,Unicap Modaraba,-0.44,-16.00%,2021-10-11
+HAEL,9.14,13000,TD,Hala Enterprises Limited,-1.0,-9.86%,2021-10-11
+QUET,9.99,3500,TD,Quetta Textile Mills Limited,-1.0,-9.10%,2021-10-11
+PAKMI,3.39,137500,TD,First Pak Modaraba,-0.31,-8.38%,2021-10-11
+AMBL,18.5,11000,TD,Apna Microfinance Bank Limited,-1.5,-7.50%,2021-10-11
+PIM,12.95,1000,TD,Popular Islamic Modaraba,-1.05,-7.50%,2021-10-11
+BUXL,144.83,57000,TD,Buxly Paints Limited,-11.74,-7.50%,2021-10-11
+SUHJDEF,31.83,12500,TD,Suhail Jute Mills Limited,-2.58,-7.50%,2021-10-11
+STJT,97.25,500,TD,Shahtaj Textile Limited,-7.88,-7.50%,2021-10-11
+TSBL,12.84,8000,TD,Trust Securities & Brokerage Limited,-1.04,-7.49%,2021-10-11
