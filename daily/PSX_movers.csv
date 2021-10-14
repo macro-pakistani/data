@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-HASCOLDEF,5.16,36758896,TAS,Hascol Petroleum Limited,-1.0,-16.23%,2021-10-13
-WTL,2.06,28869500,TAS,Worldcall Telecom Limited,-0.15,-6.79%,2021-10-13
-TELE,15.39,17011000,TAS,Telecard Limited,-1.16,-7.01%,2021-10-13
-GGLXB,27.77,16611500,TAS,Ghani Global Holdings Limited,-1.14,-3.94%,2021-10-13
-TRG,131.1,16266048,TAS,TRG Pakistan Limited,-9.99,-7.08%,2021-10-13
-UNITY,26.52,16165738,TAS,Unity Foods Limited,-2.1,-7.34%,2021-10-13
-TREET,45.92,14163500,TAS,Treet Corporation Limited,-3.72,-7.49%,2021-10-13
-HUMNL,5.53,12366500,TAS,Hum Network Limited,-0.22,-3.83%,2021-10-13
-BYCO,6.98,12044500,TAS,Byco Petroleum Pakistan Limited,-0.29,-3.99%,2021-10-13
-FABL,27.03,11617000,TAS,Faysal Bank Limited,0.53,2.00%,2021-10-13
-SGPLDEF,4.44,30000,TA,S.G. Power Limited,0.72,19.35%,2021-10-13
-FIBLM,7.66,45000,TA,First IBL Modaraba,0.64,9.12%,2021-10-13
-JVDCPS,14.0,0,TA,Javedan Corporation (Pref),1.0,7.69%,2021-10-13
-OCTOPUS,67.31,435500,TA,Octopus Digital Limited,4.69,7.49%,2021-10-13
-IDRT,17.41,1000,TA,Idrees Textile Mills Limited,1.21,7.47%,2021-10-13
-AGIC,20.29,5500,TA,Askari General Insurance Company Limited,1.41,7.47%,2021-10-13
-STJT,103.69,500,TA,Shahtaj Textile Limited,7.19,7.45%,2021-10-13
-AMBL,19.39,33000,TA,Apna Microfinance Bank Limited,1.34,7.42%,2021-10-13
-BWHL,73.49,1500,TA,Baluchistan Wheels Limited,4.94,7.21%,2021-10-13
-ABL,79.56,5842000,TA,Allied Bank Limited,4.01,5.31%,2021-10-13
-HASCOLDEF,5.16,36758896,TD,Hascol Petroleum Limited,-1.0,-16.23%,2021-10-13
-CSIL,1.92,977000,TD,Crescent Star Insurance Limited,-0.3,-13.51%,2021-10-13
-KOIL,5.76,429000,TD,Kohinoor Industries Limited,-0.89,-13.38%,2021-10-13
-CWSMDEF,2.44,154000,TD,Chakwal Spinning Mills Limited,-0.3,-10.95%,2021-10-13
-SHNI,3.5,1000,TD,Shaheen Insurance Company Limited,-0.42,-10.71%,2021-10-13
-TSPL,5.16,16500,TD,Tri-Star Power Limited,-0.59,-10.26%,2021-10-13
-KHSM,8.36,1500,TD,Khurshid Spinning Mills Limited,-0.86,-9.33%,2021-10-13
-BILFDEF,3.67,17000,TD,Bilal Fibres Limited,-0.37,-9.16%,2021-10-13
-HAEL,7.7,3500,TD,Hala Enterprises Limited,-0.75,-8.88%,2021-10-13
-FEM,6.75,26000,TD,First Equity Modaraba,-0.65,-8.78%,2021-10-13
+WTL,2.43,66164000,TAS,Worldcall Telecom Limited,0.37,17.96%,2021-10-14
+UNITY,28.5,25029893,TAS,Unity Foods Limited,1.98,7.47%,2021-10-14
+TELE,16.54,18987500,TAS,Telecard Limited,1.15,7.47%,2021-10-14
+TREET,49.36,16451500,TAS,Treet Corporation Limited,3.44,7.49%,2021-10-14
+HASCOLDEF,5.19,16019621,TAS,Hascol Petroleum Limited,0.03,0.58%,2021-10-14
+TRG,138.66,13023467,TAS,TRG Pakistan Limited,7.56,5.77%,2021-10-14
+SILK,1.43,10045500,TAS,Silkbank Limited,0.04,2.88%,2021-10-14
+BYCO,7.32,9738500,TAS,Byco Petroleum Pakistan Limited,0.34,4.87%,2021-10-14
+TPLP,43.05,9499000,TAS,TPL Properties Limited,2.92,7.28%,2021-10-14
+TPL,17.21,8914500,TAS,TPL Corp Limited,1.16,7.23%,2021-10-14
+WTL,2.43,66164000,TA,Worldcall Telecom Limited,0.37,17.96%,2021-10-14
+CSIL,2.18,652500,TA,Crescent Star Insurance Limited,0.26,13.54%,2021-10-14
+PILDEF,1.25,140500,TA,PICIC Insurance Limited,0.14,12.61%,2021-10-14
+FEM,7.45,9500,TA,First Equity Modaraba,0.7,10.37%,2021-10-14
+SINDM,9.37,69000,TA,Sindh Modaraba,0.87,10.24%,2021-10-14
+PACE,4.53,3284500,TA,Pace (Pakistan) Limited,0.41,9.95%,2021-10-14
+TSPL,5.67,26000,TA,Tri-Star Power Limited,0.51,9.88%,2021-10-14
+HAEL,8.45,5500,TA,Hala Enterprises Limited,0.75,9.74%,2021-10-14
+ASHT,11.0,4500,TA,Ashfaq Textile Mills Limited,0.94,9.34%,2021-10-14
+MDTL,2.2,980500,TA,Media Times Limited,0.18,8.91%,2021-10-14
+PPVCDEF,4.31,500,TD,Pakistan PVC Limited,-0.8,-15.66%,2021-10-14
+SGPLDEF,4.01,72000,TD,S.G. Power Limited,-0.43,-9.68%,2021-10-14
+GRYL,3.61,4000,TD,Grays Leasing Limited,-0.38,-9.52%,2021-10-14
+SERF,10.94,431500,TD,Service Fabrics Limited,-1.0,-8.38%,2021-10-14
+QUET,7.33,8500,TD,Quetta Textile Mills Limited,-0.66,-8.26%,2021-10-14
+TSBL,11.85,1000,TD,Trust Securities & Brokerage Limited,-0.99,-7.71%,2021-10-14
+BWHL,67.99,1500,TD,Baluchistan Wheels Limited,-5.5,-7.48%,2021-10-14
+SUHJDEF,25.26,500,TD,Suhail Jute Mills Limited,-2.04,-7.47%,2021-10-14
+LPGL,20.45,500,TD,Leiner Pak Gelatine Limited,-1.65,-7.47%,2021-10-14
+ALTN,25.04,1500,TD,Altern Energy Limited,-2.02,-7.46%,2021-10-14
