@@ -1,31 +1,31 @@
 SYMBOL,PRICE,VOLUME,CATEGORY,NAME,CHANGE(PKR),CHANGE(%),DATE
-HUMNL,6.14,25097500,TAS,Hum Network Limited,0.18,3.02%,2021-10-19
-WTL,2.28,20839500,TAS,Worldcall Telecom Limited,-0.11,-4.60%,2021-10-19
-HASCOLDEF,5.54,13835098,TAS,Hascol Petroleum Limited,0.29,5.52%,2021-10-19
-UNITY,28.67,13554483,TAS,Unity Foods Limited,-1.62,-5.35%,2021-10-19
-DSLDEF,4.29,9910000,TAS,Dost Steels Limited,0.6,16.26%,2021-10-19
-SERF,11.19,8828000,TAS,Service Fabrics Limited,-0.52,-4.44%,2021-10-19
-TELEXB,16.35,8608000,TAS,Telecard Limited,-0.13,-0.79%,2021-10-19
-BOP,8.71,8402500,TAS,The Bank of Punjab,0.17,1.99%,2021-10-19
-BYCO,7.29,7264500,TAS,Byco Petroleum Pakistan Limited,-0.24,-3.19%,2021-10-19
-TRG,128.46,6620247,TAS,TRG Pakistan Limited,-7.96,-5.83%,2021-10-19
-CSIL,2.66,1800000,TA,Crescent Star Insurance Limited,0.52,24.30%,2021-10-19
-DSLDEF,4.29,9910000,TA,Dost Steels Limited,0.6,16.26%,2021-10-19
-PPVCDEF,5.8,1500,TA,Pakistan PVC Limited,0.49,9.23%,2021-10-19
-DWSMDEF,3.92,2500,TA,Dewan Sugar Mills Limited,0.31,8.59%,2021-10-19
-LMSMDEF,13.99,500,TA,Landmark Spinning Industries Limited,0.99,7.62%,2021-10-19
-PECODEF,355.28,400,TA,Pakistan Engineering Company Limited,24.78,7.50%,2021-10-19
-ARMXD,15.07,53000,TA,Allied Rental Modaraba,1.05,7.49%,2021-10-19
-AELDEF,23.27,500,TA,Arshad Energy Limited,1.62,7.48%,2021-10-19
-IDSMXD,34.9,1000,TA,Ideal Spinning Mills Limited,2.4,7.38%,2021-10-19
-HICL,7.6,1000,TA,Habib Insurance Company Limited,0.52,7.34%,2021-10-19
-TSPL,5.0,159500,TD,Tri-Star Power Limited,-0.99,-16.53%,2021-10-19
-SLL,3.11,8500,TD,SME Leasing Limited,-0.37,-10.63%,2021-10-19
-SASML,12.25,0,TD,Sindh Abadgars Sugar Mills Limited,-1.0,-7.55%,2021-10-19
-BUXL,99.85,19000,TD,Buxly Paints Limited,-8.09,-7.49%,2021-10-19
-TPLP,38.66,3027500,TD,TPL Properties Limited,-3.13,-7.49%,2021-10-19
-SUHJDEF,21.62,4500,TD,Suhail Jute Mills Limited,-1.75,-7.49%,2021-10-19
-OCTOPUS,72.08,5278500,TD,Octopus Digital Limited,-5.83,-7.48%,2021-10-19
-ECOPXB,25.1,70500,TD,Ecopack Limited,-2.03,-7.48%,2021-10-19
-OTSUXD,243.82,300,TD,Otsuka Pakistan Limited,-19.68,-7.47%,2021-10-19
-KOHTMXD,19.35,1000,TD,Kohat Textile Mills Limited,-1.55,-7.42%,2021-10-19
+WTL,2.53,49452000,TAS,Worldcall Telecom Limited,0.25,10.96%,2021-10-20
+HUMNL,6.5,24770000,TAS,Hum Network Limited,0.36,5.86%,2021-10-20
+BYCO,7.53,15608500,TAS,Byco Petroleum Pakistan Limited,0.24,3.29%,2021-10-20
+TELEXB,16.73,15593500,TAS,Telecard Limited,1.16,7.45%,2021-10-20
+UNITY,29.97,15010722,TAS,Unity Foods Limited,1.3,4.53%,2021-10-20
+SERF,11.81,11707000,TAS,Service Fabrics Limited,0.62,5.54%,2021-10-20
+ANL,16.26,10471000,TAS,Azgard Nine Limited,0.73,4.70%,2021-10-20
+TRG,134.35,7412437,TAS,TRG Pakistan Limited,5.89,4.59%,2021-10-20
+MLCF,35.12,6026898,TAS,Maple Leaf Cement Factory Limited,2.45,7.50%,2021-10-20
+TREET,43.96,5932000,TAS,Treet Corporation Limited,1.52,3.58%,2021-10-20
+PKGIDEF,5.29,5000,TA,The Pakistan General Insurance Co. Ltd.,0.67,14.50%,2021-10-20
+ALAC,7.96,500,TA,Askari Life Assurance Company Limited,0.96,13.71%,2021-10-20
+FEM,7.89,178500,TA,First Equity Modaraba,0.89,12.71%,2021-10-20
+SLL,3.5,2500,TA,SME Leasing Limited,0.39,12.54%,2021-10-20
+WTL,2.53,49452000,TA,Worldcall Telecom Limited,0.25,10.96%,2021-10-20
+FIBLM,9.8,39500,TA,First IBL Modaraba,0.8,8.89%,2021-10-20
+SASML,13.25,1500,TA,Sindh Abadgars Sugar Mills Limited,1.0,8.16%,2021-10-20
+BRRXD,13.57,20000,TA,B.R.R. Guardian Modaraba,1.0,7.96%,2021-10-20
+FLYNGXB,14.15,2149500,TA,Flying Cement Company Limited,1.0,7.60%,2021-10-20
+MLCF,35.12,6026898,TA,Maple Leaf Cement Factory Limited,2.45,7.50%,2021-10-20
+FCIBL,7.1,6500,TD,First Credit and Investment Bank Limited,-0.99,-12.24%,2021-10-20
+HGFA,7.5,15500,TD,HBL Growth Fund,-0.89,-10.61%,2021-10-20
+HIFA,2.75,1500,TD,HBL Investment Fund,-0.3,-9.84%,2021-10-20
+JDMT,89.72,500,TD,Janana De Malucho Textile Mills Limited,-7.27,-7.50%,2021-10-20
+MSCL,25.67,1500,TD,Metropolitan Steel Corporation Limited,-2.07,-7.46%,2021-10-20
+OML,21.5,500,TD,Olympia Mills Limited,-1.71,-7.37%,2021-10-20
+NSRM,18.11,500,TD,The National Silk & Rayon Mills Limited,-1.42,-7.27%,2021-10-20
+TSBL,11.0,1500,TD,Trust Securities & Brokerage Limited,-0.85,-7.17%,2021-10-20
+SSOM,102.07,8300,TD,S.S.Oil Mills Limited,-7.38,-6.74%,2021-10-20
+HRPLXD,37.03,37000,TD,Habib Rice Product Limited.,-2.66,-6.70%,2021-10-20
